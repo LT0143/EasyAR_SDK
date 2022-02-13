@@ -26,9 +26,9 @@ MonoBehaviour:
     ObjectTarget:
       Enable: 1
   GlobalSpatialMapServiceConfig:
-    APIKey: 
-    APISecret: 
-    SparseSpatialMapAppID: 
+    APIKey: d35d61830c57a8ea3b34f900f67f6cb8
+    APISecret: d35d61830c57a8ea3b34f900f67f6cb8
+    SparseSpatialMapAppID: C:CN1:4f9961ce1a422c709d7a128acf0fdd41
   GlobalCloudRecognizerServiceConfig:
     ServerAddress: 
     APIKey: 
